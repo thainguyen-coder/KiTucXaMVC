@@ -1,4 +1,5 @@
 ﻿using KTX.Models;
+using Models.DAO;
 using Models.EF;
 using System;
 using System.Collections.Generic;
@@ -10,14 +11,18 @@ namespace KTX.Controllers
 {
     public class PhongController : BaseController
     {
+
+
         // GET: Phong
+
         public ActionResult Index(string searchString)
         {
+            var sv = new PhongModel();
             if (searchString == "")
             {
                 SetAlert("Vui lòng nhập thông tin tìm kiếm", "error");
             }
-            var sv = new PhongModel();
+
             var model = sv.ListWhereAll(searchString);
             @ViewBag.SearchString = searchString;
             return View(model);
@@ -58,14 +63,12 @@ namespace KTX.Controllers
             }
             return View();
         }
-       
-        [HttpPost]
         public ActionResult Edit(PHONG phong)
         {
             if (ModelState.IsValid)
             {
                 var dao = new PhongModel();
-                
+
                 var result = dao.Update(phong);
                 if (result)
                 {
@@ -74,25 +77,22 @@ namespace KTX.Controllers
                 }
                 else
                 {
-                    ModelState.AddModelError("", "Chỉnh sửa thông tin phòng không thành công");
+                    if (phong.SoCho > 8)
+                    {
+                        ModelState.AddModelError("", "Mỗi phòng chỉ có 8 chỗ!");
+                    }
+                    else
+                        ModelState.AddModelError("", "Mã phòng không được sửa");
                 }
             }
             return View();
         }
         public ActionResult Delete(string MaPhong)
         {
-            try
-            {
-                PhongModel ph = new PhongModel();
-                ph.Delete(MaPhong);
-
-                return RedirectToAction("Index", "Phong");
-            }
-            catch (Exception ex)
-            {
-                SetAlert("Phòng này còn có sinh viên ở ", "error");
-                return RedirectToAction("Index", "Phong");
-            }
+            PhongModel ph = new PhongModel();
+            ph.Delete(MaPhong);
+            return RedirectToAction("Index", "Phong");
         }
+
     }
 }

@@ -1,375 +1,66 @@
-D:\THLVN\KTX\KTX\bin\KTX.dll.config
-D:\THLVN\KTX\KTX\bin\KTX.dll
-D:\THLVN\KTX\KTX\bin\KTX.pdb
-D:\THLVN\KTX\KTX\bin\Antlr3.Runtime.dll
-D:\THLVN\KTX\KTX\bin\EntityFramework.dll
-D:\THLVN\KTX\KTX\bin\EntityFramework.SqlServer.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.AspNet.Identity.Core.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Host.SystemWeb.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.Cookies.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.Facebook.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.Google.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.OAuth.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.Twitter.dll
-D:\THLVN\KTX\KTX\bin\Microsoft.Web.Infrastructure.dll
-D:\THLVN\KTX\KTX\bin\Newtonsoft.Json.dll
-D:\THLVN\KTX\KTX\bin\Owin.dll
-D:\THLVN\KTX\KTX\bin\System.Web.Helpers.dll
-D:\THLVN\KTX\KTX\bin\System.Web.Mvc.dll
-D:\THLVN\KTX\KTX\bin\System.Web.Optimization.dll
-D:\THLVN\KTX\KTX\bin\System.Web.Razor.dll
-D:\THLVN\KTX\KTX\bin\System.Web.WebPages.Deployment.dll
-D:\THLVN\KTX\KTX\bin\System.Web.WebPages.dll
-D:\THLVN\KTX\KTX\bin\System.Web.WebPages.Razor.dll
-D:\THLVN\KTX\KTX\bin\WebGrease.dll
-D:\THLVN\KTX\KTX\bin\System.Web.Helpers.xml
-D:\THLVN\KTX\KTX\bin\System.Web.Mvc.xml
-D:\THLVN\KTX\KTX\bin\System.Web.Optimization.xml
-D:\THLVN\KTX\KTX\bin\System.Web.Razor.xml
-D:\THLVN\KTX\KTX\bin\System.Web.WebPages.xml
-D:\THLVN\KTX\KTX\bin\System.Web.WebPages.Deployment.xml
-D:\THLVN\KTX\KTX\bin\System.Web.WebPages.Razor.xml
-D:\THLVN\KTX\KTX\bin\Antlr3.Runtime.pdb
-D:\THLVN\KTX\KTX\bin\Newtonsoft.Json.xml
-D:\THLVN\KTX\KTX\bin\EntityFramework.xml
-D:\THLVN\KTX\KTX\bin\EntityFramework.SqlServer.xml
-D:\THLVN\KTX\KTX\bin\Microsoft.AspNet.Identity.Core.xml
-D:\THLVN\KTX\KTX\bin\Microsoft.AspNet.Identity.Owin.xml
-D:\THLVN\KTX\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.xml
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.xml
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.Facebook.xml
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.Cookies.xml
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.OAuth.xml
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.Google.xml
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.Twitter.xml
-D:\THLVN\KTX\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\THLVN\KTX\KTX\obj\Debug\KTX.csprojResolveAssemblyReference.cache
-D:\THLVN\KTX\KTX\obj\Debug\KTX.dll
-D:\THLVN\KTX\KTX\obj\Debug\KTX.pdb
-D:\THLVN\KTX\KTX\bin\Models.dll
-D:\THLVN\KTX\KTX\bin\Models.pdb
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\KTX.dll.config
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\KTX.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\KTX.pdb
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Antlr3.Runtime.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\EntityFramework.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\EntityFramework.SqlServer.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Models.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Newtonsoft.Json.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Owin.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.Helpers.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.Mvc.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.Optimization.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.Razor.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.WebPages.Deployment.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.WebPages.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.WebPages.Razor.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\WebGrease.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Models.pdb
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\EntityFramework.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\EntityFramework.SqlServer.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.Helpers.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.Mvc.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.Optimization.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.Razor.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.WebPages.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.WebPages.Deployment.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\System.Web.WebPages.Razor.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Antlr3.Runtime.pdb
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Newtonsoft.Json.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\DELL\Desktop\QLKTX\KTX\obj\Debug\KTX.csprojResolveAssemblyReference.cache
-C:\Users\DELL\Desktop\QLKTX\KTX\obj\Debug\KTX.dll
-C:\Users\DELL\Desktop\QLKTX\KTX\obj\Debug\KTX.pdb
-D:\Desktop\QLKTX\KTX\obj\Debug\KTX.csprojResolveAssemblyReference.cache
-D:\Desktop\QLKTX\KTX\obj\Debug\KTX.dll
-D:\Desktop\QLKTX\KTX\bin\KTX.dll.config
-D:\Desktop\QLKTX\KTX\bin\KTX.dll
-D:\Desktop\QLKTX\KTX\bin\KTX.pdb
-D:\Desktop\QLKTX\KTX\bin\Antlr3.Runtime.dll
-D:\Desktop\QLKTX\KTX\bin\EntityFramework.dll
-D:\Desktop\QLKTX\KTX\bin\EntityFramework.SqlServer.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Core.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Host.SystemWeb.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Cookies.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Facebook.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Google.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.OAuth.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Twitter.dll
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Web.Infrastructure.dll
-D:\Desktop\QLKTX\KTX\bin\Models.dll
-D:\Desktop\QLKTX\KTX\bin\Newtonsoft.Json.dll
-D:\Desktop\QLKTX\KTX\bin\Owin.dll
-D:\Desktop\QLKTX\KTX\bin\System.Web.Helpers.dll
-D:\Desktop\QLKTX\KTX\bin\System.Web.Mvc.dll
-D:\Desktop\QLKTX\KTX\bin\System.Web.Optimization.dll
-D:\Desktop\QLKTX\KTX\bin\System.Web.Razor.dll
-D:\Desktop\QLKTX\KTX\bin\System.Web.WebPages.Deployment.dll
-D:\Desktop\QLKTX\KTX\bin\System.Web.WebPages.dll
-D:\Desktop\QLKTX\KTX\bin\System.Web.WebPages.Razor.dll
-D:\Desktop\QLKTX\KTX\bin\WebGrease.dll
-D:\Desktop\QLKTX\KTX\bin\Models.pdb
-D:\Desktop\QLKTX\KTX\bin\EntityFramework.xml
-D:\Desktop\QLKTX\KTX\bin\EntityFramework.SqlServer.xml
-D:\Desktop\QLKTX\KTX\bin\System.Web.Helpers.xml
-D:\Desktop\QLKTX\KTX\bin\System.Web.Mvc.xml
-D:\Desktop\QLKTX\KTX\bin\System.Web.Optimization.xml
-D:\Desktop\QLKTX\KTX\bin\System.Web.Razor.xml
-D:\Desktop\QLKTX\KTX\bin\System.Web.WebPages.xml
-D:\Desktop\QLKTX\KTX\bin\System.Web.WebPages.Deployment.xml
-D:\Desktop\QLKTX\KTX\bin\System.Web.WebPages.Razor.xml
-D:\Desktop\QLKTX\KTX\bin\Antlr3.Runtime.pdb
-D:\Desktop\QLKTX\KTX\bin\Newtonsoft.Json.xml
-D:\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Core.xml
-D:\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Owin.xml
-D:\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.xml
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.xml
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Facebook.xml
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Cookies.xml
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.OAuth.xml
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Google.xml
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Twitter.xml
-D:\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Desktop\QLKTX\KTX\obj\Debug\KTX.pdb
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\KTX.dll.config
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\KTX.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\KTX.pdb
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Antlr3.Runtime.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\EntityFramework.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\EntityFramework.SqlServer.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\EPPlus.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Models.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Newtonsoft.Json.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Owin.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.Helpers.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.Mvc.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.Optimization.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.Razor.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.WebPages.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.WebPages.Razor.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\WebGrease.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Models.pdb
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\EntityFramework.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\EntityFramework.SqlServer.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\EPPlus.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.Helpers.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.Mvc.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.Optimization.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.Razor.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.WebPages.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\System.Web.WebPages.Razor.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Antlr3.Runtime.pdb
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Newtonsoft.Json.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\obj\Debug\KTX.csprojResolveAssemblyReference.cache
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\obj\Debug\KTX.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\obj\Debug\KTX.pdb
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\KTX.dll.config
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\KTX.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\KTX.pdb
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Antlr3.Runtime.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\ClosedXML.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\DocumentFormat.OpenXml.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\EntityFramework.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\EntityFramework.SqlServer.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\EPPlus.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\ExcelNumberFormat.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Models.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Newtonsoft.Json.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Owin.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.Helpers.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.Mvc.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.Optimization.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.Razor.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.WebPages.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.WebPages.Razor.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\WebGrease.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Models.pdb
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Models.dll.config
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\ClosedXML.pdb
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\ClosedXML.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\DocumentFormat.OpenXml.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\EntityFramework.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\EntityFramework.SqlServer.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\EPPlus.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\ExcelNumberFormat.xml
-<<<<<<< HEAD
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.Helpers.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.Mvc.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.Optimization.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.Razor.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.WebPages.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\System.Web.WebPages.Razor.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Antlr3.Runtime.pdb
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Newtonsoft.Json.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\obj\Debug\KTX.csprojAssemblyReference.cache
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\obj\Debug\KTX.csproj.CoreCompileInputs.cache
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\obj\Debug\KTX.csproj.CopyComplete
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\obj\Debug\KTX.dll
-C:\Users\Trant\OneDrive\Desktop\QLKTX\KTX\obj\Debug\KTX.pdb
-=======
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\ClosedXML.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\DocumentFormat.OpenXml.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\ExcelNumberFormat.dll
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\ClosedXML.pdb
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\ClosedXML.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\DocumentFormat.OpenXml.xml
-C:\Users\Mai Thanh Phong\OneDrive\Máy tính\QLKTX\KTX\bin\ExcelNumberFormat.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\KTX.dll.config
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\KTX.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\KTX.pdb
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Antlr3.Runtime.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\ClosedXML.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\DocumentFormat.OpenXml.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\EntityFramework.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\EntityFramework.SqlServer.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\EPPlus.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\ExcelNumberFormat.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Core.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Host.SystemWeb.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.Cookies.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.Facebook.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.Google.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.OAuth.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.Twitter.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Web.Infrastructure.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Models.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Newtonsoft.Json.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Owin.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.Helpers.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.Mvc.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.Optimization.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.Razor.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.WebPages.Deployment.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.WebPages.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.WebPages.Razor.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\WebGrease.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Models.pdb
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\ClosedXML.pdb
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\ClosedXML.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\DocumentFormat.OpenXml.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\EntityFramework.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\EntityFramework.SqlServer.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\EPPlus.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\ExcelNumberFormat.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.Helpers.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.Mvc.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.Optimization.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.Razor.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.WebPages.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.WebPages.Deployment.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\System.Web.WebPages.Razor.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Antlr3.Runtime.pdb
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Newtonsoft.Json.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Core.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.AspNet.Identity.Owin.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.Facebook.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.Cookies.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.OAuth.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.Google.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.Twitter.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Thực hành làm việc nhóm\QLKTX\KTX\obj\Debug\KTX.csprojResolveAssemblyReference.cache
-D:\Thực hành làm việc nhóm\QLKTX\KTX\obj\Debug\KTX.dll
-D:\Thực hành làm việc nhóm\QLKTX\KTX\obj\Debug\KTX.pdb
->>>>>>> aaf60624dd7905fa373c8cda5f6d43b60e5e5f6a
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\KTX.dll.config
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\KTX.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\KTX.pdb
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\ClosedXML.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\DocumentFormat.OpenXml.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\EPPlus.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\ExcelNumberFormat.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Models.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Owin.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\WebGrease.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Models.pdb
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\ClosedXML.pdb
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\ClosedXML.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\DocumentFormat.OpenXml.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\EPPlus.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\ExcelNumberFormat.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\obj\Debug\KTX.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\obj\Debug\KTX.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\KTX\obj\Debug\KTX.pdb

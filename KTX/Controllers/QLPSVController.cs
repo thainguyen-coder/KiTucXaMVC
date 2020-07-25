@@ -45,26 +45,26 @@ namespace KTX.Controllers
         {
             if (ModelState.IsValid)
             {
-                var dao = new QLPSVModel();
-                var dao1 = new QLSVsModel();
-                var dao2 = new PhongModel();
-                if (dao.Find(sinhVien.MaPhongSV) != null)
+                var daoPSV = new QLPSVModel();
+                var daoSV = new QLSVsModel();
+                var daoPhong = new PhongModel();
+                if (daoPSV.Find(sinhVien.MaPhongSV) != null)
                 {
                     SetAlert("Mã phòng sinh viên đã tồn tại", "error");
                     return RedirectToAction("Create", "QLPSV");
                 }
-                else if (dao.Find(sinhVien.MaSV) != null)
+                else if (daoPSV.Find(sinhVien.MaSV) != null)
                 {
                     SetAlert("Mã sinh viên này đã có phòng", "error");
                     return RedirectToAction("Create", "QLPSV");
                 }
-                else if (dao1.Find(sinhVien.MaSV) == null && dao2.Find(sinhVien.MaPhong) == null)
+                else if (daoSV.Find(sinhVien.MaSV) == null && daoPhong.Find(sinhVien.MaPhong) == null)
                 {
                     SetAlert("Sinh viên hoặc phòng không có trong CSDL", "error");
                     return RedirectToAction("Create", "QLPSV");
                 }
 
-                String result = dao.Insert(sinhVien);
+                String result = daoPSV.Insert(sinhVien);
 
                 if (!String.IsNullOrEmpty(result))
                 {

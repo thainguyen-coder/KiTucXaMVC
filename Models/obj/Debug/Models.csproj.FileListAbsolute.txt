@@ -10,3 +10,13 @@ C:\Users\Trant\OneDrive\Desktop\QLKTX\Models\obj\Debug\Models.csproj.CoreCompile
 C:\Users\Trant\OneDrive\Desktop\QLKTX\Models\obj\Debug\Models.csproj.CopyComplete
 C:\Users\Trant\OneDrive\Desktop\QLKTX\Models\obj\Debug\Models.dll
 C:\Users\Trant\OneDrive\Desktop\QLKTX\Models\obj\Debug\Models.pdb
+C:\Users\DELL\Desktop\KiTucXaMVC\Models\bin\Debug\Models.dll.config
+C:\Users\DELL\Desktop\KiTucXaMVC\Models\bin\Debug\Models.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\Models\bin\Debug\Models.pdb
+C:\Users\DELL\Desktop\KiTucXaMVC\Models\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\Models\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\KiTucXaMVC\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\KiTucXaMVC\Models\obj\Debug\Models.dll
+C:\Users\DELL\Desktop\KiTucXaMVC\Models\obj\Debug\Models.pdb

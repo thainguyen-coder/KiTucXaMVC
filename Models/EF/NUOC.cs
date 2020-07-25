@@ -10,26 +10,26 @@
     public partial class NUOC
     {
         [Key]
-        [Required(ErrorMessage = "Mã nước không được trống")]
+        [Required(ErrorMessage = "Vui lòng nhập thông tin")]
         [Display(Name = "Mã nước")]
         public string MaNuoc { get; set; }
 
-        [Required(ErrorMessage = "Bạn cần nhập mã phòng")]
+        [Required(ErrorMessage = "Vui lòng nhập thông tin")]
         [StringLength(15)]
 
         [Display(Name = "Mã phòng")]
         public string MaPhong { get; set; }
-        [Required(ErrorMessage = "Bạn cần nhập ngày")]
+        [Required(ErrorMessage = "Vui lòng nhập thông tin")]
         [Display(Name = "Ngày ghi")]
         public DateTime NgayGhi { get; set; }
-        [Required(ErrorMessage = "Bạn cần nhập CSD")]
+        [Required(ErrorMessage = "Vui lòng nhập thông tin")]
         [Display(Name = "Chỉ số đầu")]
         public int CSD { get; set; }
-        [Required(ErrorMessage = "Bạn cần nhập CSC")]
+        [Required(ErrorMessage = "Vui lòng nhập thông tin")]
         [Display(Name = "Chỉ số cuối")]
 
         public int CSC { get; set; }
-        [Required(ErrorMessage = "Bạn cần nhập đơn giá")]
+        [Required(ErrorMessage = "Vui lòng nhập thông tin")]
         [Display(Name = "Đơn giá")]
         public double DonGia { get; set; }
         public double ThanhTienN

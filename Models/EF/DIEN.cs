@@ -10,24 +10,24 @@
     public partial class DIEN
     {
         [Key]
-        [Required(ErrorMessage = "Mã điện không được trống")]
+        [Required(ErrorMessage = "Vui lòng nhập thông tin")]
         [Display(Name = "Mã điện")]
         [StringLength(15)]
         public string MaDien { set; get; }
-        [Required(ErrorMessage = "Bạn cần nhập mã phòng")]
+        [Required(ErrorMessage = "Vui lòng nhập thông tin")]
         [Display(Name = "Mã phòng")]
         [StringLength(15)]
         public string MaPhong { set; get; }
-        [Required(ErrorMessage = "Bạn cần nhập ngày")]
+        [Required(ErrorMessage = "Vui lòng nhập thông tin")]
         [Display(Name = "Ngày ghi")]
         public DateTime NgayGhi { set; get; }
-        [Required(ErrorMessage = "Bạn cần nhập CSD")]
+        [Required(ErrorMessage = "Vui lòng nhập thông tin")]
         [Display(Name = "Chỉ số đầu")]
         public int CSD { set; get; }
-        [Required(ErrorMessage = "Bạn cần nhập CSC")]
+        [Required(ErrorMessage = "Vui lòng nhập thông tin")]
         [Display(Name = "Chỉ số cuối")]
         public int CSC { set; get; }
-        [Required(ErrorMessage = "Bạn cần nhập đơn giá")]
+        [Required(ErrorMessage = "Vui lòng nhập thông tin")]
         [Display(Name = "Đơn giá")]
         public double DonGia { set; get; }
         public double ThanhTienD

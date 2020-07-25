@@ -21,25 +21,25 @@
         [Key]
         [StringLength(15)]
         [Required(ErrorMessage = "Vui lòng nhập thông tin")]
-        [Display(Name = "Mã phòng: ")]
+        [Display(Name = "Mã phòng ")]
         public string MaPhong { get; set; }
 
         [Required(ErrorMessage = "Vui lòng nhập thông tin")]
-        [Display(Name = "Số chỗ: ")]
+        [Display(Name = "Số chỗ ")]
         public int? SoCho { get; set; }
 
         [StringLength(30)]
         [Required(ErrorMessage = "Vui lòng nhập thông tin")]
-        [Display(Name = "Tình trạng: ")]
+        [Display(Name = "Tình trạng ")]
         public string TinhTrang { get; set; }
 
         [Required(ErrorMessage = "Vui lòng nhập thông tin")]
-        [Display(Name = "Mã CTĐ: ")]
+        [Display(Name = "Mã CTĐ ")]
         [StringLength(15)]
         public string MaCTD { get; set; }
 
         [Required(ErrorMessage = "Vui lòng nhập thông tin")]
-        [Display(Name = "Mã CTN: ")]
+        [Display(Name = "Mã CTN ")]
         [StringLength(15)]
         public string MaCTN { get; set; }
 
