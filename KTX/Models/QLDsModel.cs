@@ -108,16 +108,12 @@ namespace KTX.Models
         {
             try
             {
-
                 var dien = db.DIENs.FirstOrDefault(x => x.MaDien.Contains(maDien));
                 if (dien != null)
                 {
                     db.DIENs.Remove(dien);
                     db.SaveChanges();
-
                 }
-
-
             }
 
             catch (Exception e)

@@ -93,7 +93,7 @@ namespace KTX.Controllers
         public ActionResult Delete(string MaDien)
         {
             new QLDsModel().Delete(MaDien);
-            SetAlert("Bạn đã xóa thông tin điện ra khỏi phòng!", "success");
+          
             return RedirectToAction("Index", "QLDs");
         }
 

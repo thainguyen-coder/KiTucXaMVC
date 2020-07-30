@@ -45,6 +45,7 @@ namespace KTX.Controllers
         {
             if (ModelState.IsValid)
             {
+              
                 var daoPSV = new QLPSVModel();
                 var daoSV = new QLSVsModel();
                 var daoPhong = new PhongModel();
@@ -58,9 +59,16 @@ namespace KTX.Controllers
                     SetAlert("Mã sinh viên này đã có phòng", "error");
                     return RedirectToAction("Create", "QLPSV");
                 }
-                else if (daoSV.Find(sinhVien.MaSV) == null && daoPhong.Find(sinhVien.MaPhong) == null)
+            
+                else if ( daoPhong.Find(sinhVien.MaPhong) == null)
                 {
-                    SetAlert("Sinh viên hoặc phòng không có trong CSDL", "error");
+                    SetAlert(" Phòng không có trong CSDL", "error");
+                    return RedirectToAction("Create", "QLPSV");
+                }
+                else if (daoSV.Find(sinhVien.MaSV) == null)
+                {
+
+                    SetAlert("Sinh viên  không có trong CSDL", "error");
                     return RedirectToAction("Create", "QLPSV");
                 }
 

@@ -17,9 +17,6 @@ namespace KTX.Controllers
         // GET: HoaDon
         public ActionResult Index(string searchString)
         {
-
-            var hoaDon = new HoaDonModel();
-
             HoaDonModel hoaDonModel = new HoaDonModel();
             var hoaDonViewModels = hoaDonModel.inHoaDons();
 

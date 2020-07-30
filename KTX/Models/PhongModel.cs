@@ -51,6 +51,13 @@ namespace KTX.Models
             return db.PHONGs.SingleOrDefault(x => x.MaPhong == MaPhong);
         }
 
+        public PHONG FindSC(string soCho)
+        {
+           
+            return db.PHONGs.Find(soCho);
+
+        }
+       
         public PHONG Find(string MaPhong)
         {
             return db.PHONGs.Find(MaPhong);
